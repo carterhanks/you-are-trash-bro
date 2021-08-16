@@ -37,9 +37,9 @@ Call of Duty Warzone App that shows you how trash you are at the game.
 - Ties
   - Misses
   - Most Deaths in a Match
-  - Assists (?)
+  - Assists
   - Total Shots taken
-  - Accuracy (?)
+  - Accuracy
   - Time Prone
   - No Kills With Death
   - Melee Deaths
