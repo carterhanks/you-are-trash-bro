@@ -11,7 +11,7 @@ Call of Duty Warzone App that shows you how trash you are at the game.
   - Login info
   - Activision ID
   - Keeps info between page refresh
-- App will have a dropdown that allows user to select between different stats they would like to track
+- App will have a dropdown that allows user to select between different stats they would like to track (Getting from the Call of Duty: Modern Warfare API)
   - Total Deaths
   - Time Played
   - Suicides
