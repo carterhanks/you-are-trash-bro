@@ -1,2 +1,7 @@
-# you-are-trash-bro
-Call of Duty App that shows you how bad you are at the game.
+# You're Trash Bro
+
+Call of Duty App that shows you how trash you are at the game.
+
+# MVP
+
+## App Functionality
