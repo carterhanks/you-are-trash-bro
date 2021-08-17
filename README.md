@@ -53,3 +53,4 @@ Call of Duty Warzone App that shows you how trash you are at the game.
 - More complex sharing functionality, possibly incorporating Social Media compatibility
 - More specified "trash" rank (World vs Nation vs State, assuming data becomes available)
 - Users will be able to see the stats of all of their activision friends automatically as well
+- Ability to compare two users/players at the same time for a side-by-side comparison and even export the information to a photo format that content creators / any players could use in their videos that they upload to social media, etc. They could display their stats compared to the stats of the person they're going up against and then roll the gameplay.
